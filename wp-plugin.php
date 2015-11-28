@@ -15,3 +15,4 @@ function kos_action_hook_dashboard(){
 add_action('wp_dashboard_setup', 'kos_action_hook_dashboard');
 
 ?>
+https://developer.wordpress.org/plugins/
